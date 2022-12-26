@@ -11,7 +11,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://baibunviwe.com/2022/12/12/rat-meat-is-considered-a-specialty-in-many-countries/"
           target="_blank"
           rel="noopener noreferrer"
         >
