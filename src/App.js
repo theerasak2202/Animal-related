@@ -1,4 +1,4 @@
-import Head from 'next head';
+
 import logo from './logo.svg';
 import './App.css';
 
